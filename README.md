@@ -4,7 +4,7 @@
 
 Meu nome é Laura e estou em formação para me tornar uma Desenvolvedora Front-End.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e aluna Proana pelo Instituto Proa, onde estou expandindo meus conhecimentos em tecnologia e desenvolvimento web.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e aluna do Instituto Proa, onde estou expandindo meus conhecimentos em tecnologia e desenvolvimento web.
 
 Tenho paixão por criação e inovação, e encontrei na área de Front-End uma maneira de unir criatividade, design e tecnologia para construir soluções que fazem a diferença.
 
