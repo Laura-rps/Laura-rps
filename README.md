@@ -47,26 +47,25 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
 
 <p>
   <a href="mailto:Lauraroberto731@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-4B0082?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/laura-roberto-a576b6357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/laura_rps_/">
-    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=FF00F6" alt="Instagram" />
   </a>
 </p>
-<br/>
 <br/>
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Laura-rps&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
@@ -74,6 +73,7 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
     align="left" 
     alt="GitHub Stats" 
     height="200" 
+    style="margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
