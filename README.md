@@ -45,11 +45,17 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:Lauraroberto731@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/laura-roberto-a576b6357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/laura_rps_/)
+<p>
+  <a href="mailto:Lauraroberto731@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/laura-roberto-a576b6357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/laura_rps_/">
+    <img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF" alt="Instagram" />
+  </a>
+</p>
 <br/>
 <br/>
 
