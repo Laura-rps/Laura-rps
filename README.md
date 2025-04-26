@@ -2,14 +2,7 @@
 
 **`Desenvolvedora Front-End | Estudante de ADS`**
 
-Meu nome é Laura e estou em formação para me tornar uma Desenvolvedora Front-End.
-
-Sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e aluna do Instituto Proa, onde estou expandindo meus conhecimentos em tecnologia e desenvolvimento web.
-
-Tenho paixão por criação e inovação, e encontrei na área de Front-End uma maneira de unir criatividade, design e tecnologia para construir soluções que fazem a diferença.
-
-Estou em constante evolução, buscando aprender e aplicar boas práticas de desenvolvimento, com o objetivo de entregar experiências digitais eficientes, acessíveis e encantadoras.
-
+Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e aluna do Instituto Proa. Em formação para me tornar Desenvolvedora Front-End, sou apaixonada por criação e inovação. No Front-End, vejo uma oportunidade de unir criatividade, design e tecnologia para criar soluções digitais acessíveis e eficientes.
 
 ---
 
@@ -48,7 +41,15 @@ Estou em constante evolução, buscando aprender e aplicar boas práticas de des
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+<br/>
 
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:Lauraroberto731@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/laura-roberto-a576b6357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/laura_rps_/)
 <br/>
 <br/>
 
