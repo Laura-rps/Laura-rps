@@ -49,7 +49,7 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
   <a href="mailto:Lauraroberto731@gmail.com">
     <img src="https://img.shields.io/badge/-Email-4B0082?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/laura-roberto-a576b6357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="www.linkedin.com/in/laura-roberto-a576b6357">
     <img src="https://img.shields.io/badge/-LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=FF00F6" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/laura_rps_/">
