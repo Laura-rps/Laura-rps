@@ -64,7 +64,8 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    width="480"
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Laura-rps&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -72,7 +73,8 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
+    width="450"
     style="margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laura-rps&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
