@@ -1,6 +1,6 @@
 # ⭐ Laura Roberto
 
-**`Desenvolvedora Front-End | Estudante de ADS`**
+**`Desenvolvedora Front-End | Estudante de ADS | Proana`**
 
 Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Uninter e aluna do Instituto Proa. Em formação para me tornar Desenvolvedora Front-End, sou apaixonada por criação e inovação. No Front-End, vejo uma oportunidade de unir criatividade, design e tecnologia para criar soluções digitais acessíveis e eficientes.
 
