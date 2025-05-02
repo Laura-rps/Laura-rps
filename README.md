@@ -80,15 +80,4 @@ Me chamo Laura, sou estudante de Análise e Desenvolvimento de Sistemas na Unint
   />
 </p>
 
-<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Alexandre-Ferreira&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-<br></br>
-
-
-<img src="https://raw.githubusercontent.com/Laura-rps/Laura-rps/output/snake.svg" alt="Snake animation" />
-
-###
